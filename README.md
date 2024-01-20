@@ -37,4 +37,4 @@ https://pawankumar2002.github.io/DS-CS224/html/Prediction.html
 | Vishal Yadav            | 2001CB64 |
 | Gaurav                  | 2001CB22 |
 | Aaryan Dhakad           | 2001CB01 |
-| Manas Singh             | 2001EE31 |
+|Rohit Kumar              | 2001EE56 |
